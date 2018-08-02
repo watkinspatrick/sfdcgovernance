@@ -1,7 +1,7 @@
 # SFDC Governance Resources
 A collection of tools and scripts demonstrated in the Pluralsight Play by Play course [Implementing Sustainable and Scalable Salesforce Governance](http://www.pluralsight.com/courses/play-by-play-implementing-sustainable-scalable-salesforce-governance)  
 
-Scripts in the repo were written on Ubuntu using BASH.  
+[Scripts](https://github.com/watkinspatrick/sfdcgovernance/tree/master/demoscripts) in the repo were written on Ubuntu using BASH.  
 
 ## Scanning and Reporting Tools
 [Source scanner](https://security.secure.force.com/security/tools/forcecom/scanner)  
