@@ -3,6 +3,8 @@ A collection of tools and scripts demonstrated in the Pluralsight Play by Play c
 
 [Scripts](https://github.com/watkinspatrick/sfdcgovernance/tree/master/demoscripts) in the repo were written on Ubuntu using BASH.  
 
+[Guide to Treating Permissions as Data for Analysis](https://github.com/watkinspatrick/sfdcgovernance/wiki/Treating-Permissions-as-Data-for-Analysis) included in the Wiki tab for this repo.
+
 ## Scanning and Reporting Tools
 [Source scanner](https://security.secure.force.com/security/tools/forcecom/scanner)  
 Free tool from Salesforce for security and code quality reporting (pay version with api, etc. available from the link)
